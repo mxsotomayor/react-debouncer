@@ -1,16 +1,21 @@
 {
   "name": "@maxwellsr/react-debouncer",
-  "author": "Maxwell Sr",
-  "version": "1.0.2",
+  "author": "Maxwell Sotomayor Ramos",
+  "website": "https://maxwellsr.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxsotomayor/react-debouncer"
+  },
+  "version": "1.0.4",
   "keywords": [
     "react",
     "debounce",
     "typescript"
   ],
   "peerDependencies": {
-    "react": "^15.0.0",
-    "typescript": "^4.0.0"
+    "react": "*",
+    "typescript": "*"
   },
   "license": "ISC",
-  "description": "React hook to debounce any function call"
+  "description": "A Simple React hook to debounce any function call"
 }

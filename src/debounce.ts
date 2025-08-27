@@ -1,6 +1,6 @@
 import React from "react";
 
-export const debouncer = (delay = 400) => {
+export const debouncer = (delay = 500) => {
   const timer = React.useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const caller = React.useCallback(
