@@ -1,13 +1,13 @@
 {
-  "name": "react-debouncer",
-  "version": "1.0.0",
+  "name": "@maxwellsr/react-debouncer",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react": "^15.0.0",
     "typescript": "^4.0.0"
   },
   "author": "",
